@@ -1,0 +1,8 @@
+#include <ros/ros.h>
+#include <tf/transform_broadcaster.h>
+#include "jacobian_control_grasping/jacobian_control_grasping.h"
+
+int main(int argc, char** argv){
+
+
+}

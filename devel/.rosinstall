@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/naman/catkin_ws/src/jacobian_control_grasping/devel/setup.sh
